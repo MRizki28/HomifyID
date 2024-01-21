@@ -3,7 +3,7 @@ import house2 from "../../assets/img/house/house2.png";
 
 const About = () => {
     return (
-        <div className="container mx-auto max-w-screen-xl mt-5">
+        <div className="container mx-auto max-w-screen-xl mt-5 mb-28">
             <div className="row">
                 <div className="col-lg-6 align-baseline">
                     <div className="lg:mr-[30px] mr-0">
