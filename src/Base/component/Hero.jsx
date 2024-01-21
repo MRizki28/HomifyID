@@ -14,7 +14,7 @@ const Hero = () => {
                         Speak to Sales
                     </a>
                 </div>
-                <div className="lg:mt-0 lg:col-span-5 flex">
+                <div className="lg:mt-0 mt-4 lg:col-span-5 flex">
                     <img src={house} className="max-w-full ml-0 lg:ml-10" alt="mockup" />
                 </div>
             </div>
