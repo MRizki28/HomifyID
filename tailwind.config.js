@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        nunitoSans:['nunito-sans']
+        nunitoSans:['nunito-sans'],
+        popins:['popins']
       }
     },
   },

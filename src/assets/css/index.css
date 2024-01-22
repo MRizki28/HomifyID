@@ -2,3 +2,8 @@
     font-family: nunito-sans;
     src: url("/src/assets/fonts/Nunito/static/Nunito-Regular.ttf");
 }
+
+@font-face {
+    font-family: popins;
+    src: url("/src/assets/fonts/Poppins/Poppins-Regular.ttf");
+}
