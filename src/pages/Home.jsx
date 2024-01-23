@@ -9,10 +9,8 @@ const Home = () => {
 
     return (
         <>
-            <div className="container mx-auto">
-                <Navbar></Navbar>
-                <BottomNavbar></BottomNavbar>
-            </div>
+            <Navbar></Navbar>
+            <BottomNavbar></BottomNavbar>
             <Hero></Hero>
             <SearchHero></SearchHero>
             <About></About>
