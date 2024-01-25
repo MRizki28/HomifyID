@@ -5,6 +5,7 @@ import BottomNavbar from "../Base/component/BottomNavbar";
 import SearchHero from "../Base/component/SearchHero";
 import About from "../Base/component/About";
 import Statistic from "../Base/component/Statistic";
+import TopSale from "../Base/component/TopSale";
 
 const Home = () => {
 
@@ -16,6 +17,7 @@ const Home = () => {
             <SearchHero></SearchHero>
             <About></About>
             <Statistic></Statistic>
+            <TopSale></TopSale>
         </>
     )
 }
